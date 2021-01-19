@@ -1,7 +1,7 @@
 title: Dark Poole
 url: 'bobcycle.github.io'
 paginate: 1
-baseurl: '/Website-2'
+baseurl: '/Blog-1'
 permalink: pretty
 plugins:
   - jekyll-gist
