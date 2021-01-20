@@ -18,6 +18,7 @@ $$
 $$
 ⠀
 ⠀
+
 However, if for some reason the market volatility doubles (to 1.0%) you are automatically prone to lose double the amount. You have now increased your risk by a 100% by doing nothing.
 
 *You can only combat this by halving your exposure to the market.*
