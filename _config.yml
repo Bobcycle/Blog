@@ -1,6 +1,7 @@
 title: 'Amin Laanaya'
 url: 'bobcycle.github.io'
 paginate: 1
+paginate_path: "/Blog-1/page:num/"
 baseurl: '/Blog-1'
 permalink: pretty
 plugins:
