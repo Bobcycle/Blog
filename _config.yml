@@ -1,9 +1,11 @@
-title: 'Amin Laanaya'
-url: 'bobcycle.github.io'
+# Setup
+title: Amin Laanaya
+url: https://bobcycle.github.io/Blog-1
 paginate: 1
 paginate_path: "/Blog-1/page:num/"
-baseurl: '/Blog-1'
+baseurl: "/Blog-1"
 permalink: pretty
+
 plugins:
   - jekyll-gist
   - jekyll-paginate
@@ -26,6 +28,6 @@ author:
 version: 3.0.0
 nav:
   - title: Blog
-    url: /archive
+    url: /Blog-1/archive
   - title: About
-    url: /about
+    url: /Blog-1/about
