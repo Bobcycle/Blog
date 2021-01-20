@@ -16,10 +16,10 @@ If the average market volatility is 0.50% on an asset with a $1M portfolio you w
 $$
 1.000.000 x 0,005 = 5000
 $$
-
+⠀
 
 However, if for some reason the market volatility doubles (to 1.0%) you are automatically prone to lose double the amount. You have now increased your risk by a 100% by doing nothing.
 
 *You can only combat this by halving your exposure to the market*
 
-During meetings with profession traders, the manager may ask their traders to sell half of their assets during increased volatility. They would have to sell 500k worth of assets if they have a 1M position.
+During meetings with professional traders, the manager may ask their traders to sell half of their assets during increased volatility. They would have to sell 500k worth of assets if they have a 1M position.
