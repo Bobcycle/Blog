@@ -3,12 +3,20 @@ layout: post
 title: Increased risk with more market volatility
 ---
 
-**Howdy!** This is an example blog post that shows several types of HTML content supported in this theme.
-{: .message }
+The management of risk is an important (if not the most) job of anyone who takes their trading seriously. Without proper risk management anyone will become an ex-trader very quickly.
 
-Your risk can increase even when you're doing nothing. If the average market volatility is 0,50% with a $1.000.000 portfolio, you will either win or lose 5000$ a day. If the market volatility is double (1%) you can either win or lose 10.000$ a day. 
+Under retail traders the most common risk management techniques are stop losses and working with units. Whilst some might even go as far as to hedge. This is a more advanced method for seasoned traders.
 
-You have increased your risk by doing nothing.
-Market volatility is the change of prices per a given time period.
+One thing which does not get mentioned enough is the increased risk during above average market volatility. Your risk increases automatically.
 
-The only way to do combat this is by halving your exposure ($1.000.000) to the market. You have to sell half of your position which makes your exposure $500.000.
+> Volatility does create immense opportunity, but it will also force you to think about your exposure to the market.
+
+If the average market volatility is 0.50% on an asset with a $1M portfolio you will either win or lose $5000 a day during normal market volatility.
+$$
+1.000.000 x 0,005 = 5000
+$$
+However, if for some reason the market volatility doubles (to 1.0%) you are automatically prone to lose double the amount. You have now increased your risk by a 100% by doing nothing.
+
+*In this case, the only way to combat this is by halving your exposure to the market. *
+
+During meetings with profession traders, the manager may ask their traders to sell half of their assets during increased volatility. They would have to sell 500k worth of assets if they have a 1M position.
