@@ -29,5 +29,5 @@ version: 3.0.0
 nav:
   - title: Blog
     url: /Blog-1/archive
-  - title: About
-    url: /Blog-1/about
+  - title: Home
+    url: https://laanaya.org/
