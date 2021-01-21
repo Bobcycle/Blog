@@ -19,4 +19,4 @@ However, if for some reason the market volatility doubles (1.0%) you are automat
 
 *You can only combat this by halving your exposure to the market.*
 
-During meetings with professional traders, the manager may ask their traders to sell half of their assets during increased volatility. They would have to sell $500.000 worth of assets if they have a $1.000.000 position.
+During meetings with professional traders, the manager may ask their traders to sell half of their assets during increased volatility. They would have to sell $500.000 worth of assets if they have a $1.000.000 position. This again comes back to risk management being a top priority.
