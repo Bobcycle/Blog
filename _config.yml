@@ -2,7 +2,6 @@
 title: Amin Laanaya
 url: https://bobcycle.github.io/Blog
 paginate: 1
-paginate_path: "/Blog/page:num/"
 baseurl: "/Blog"
 permalink: pretty
 
