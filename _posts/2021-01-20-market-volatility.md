@@ -11,9 +11,9 @@ One aspect which does not get mentioned enough is the increased risk during abov
 
 > Volatility does create immense opportunity, especially for day/swing-traders, but it will also force you to think about your exposure to the market.
 
-If the average market volatility is 0.50% on an asset with a $1.000.000 portfolio you will either win or lose $5000 a day during normal market volatility.
+If the average market volatility is 0.50% on an asset with a $1.000.000 portfolio you will either win or lose $5.000 a day during normal market volatility.
 
-(1.000.000 x 0.005 = 5000)⠀
+(1.000.000 x 0,005 = 5.000)⠀
 
 However, if for some reason the market volatility doubles (1.0%) you are automatically prone to lose double the amount. You have now increased your risk by 100% by doing nothing.
 
