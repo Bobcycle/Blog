@@ -1,9 +1,9 @@
 # Setup
 title: Amin Laanaya
-url: https://bobcycle.github.io/Blog-1
+url: https://bobcycle.github.io/Blog
 paginate: 1
-paginate_path: "/Blog-1/page:num/"
-baseurl: "/Blog-1"
+paginate_path: "/Blog/page:num/"
+baseurl: "/Blog"
 permalink: pretty
 
 plugins:
@@ -28,6 +28,6 @@ author:
 version: 3.0.0
 nav:
   - title: Archive
-    url: /Blog-1/archive
+    url: /Blog/archive
   - title: Home
     url: https://laanaya.org/
