@@ -12,6 +12,6 @@ The University of Berkeley has researched this exact phenomenon. In 2009 they ha
 
 In this case, their conclusion was that over short time horizons (days or weeks) retail traders have a direct influence on the market, pushing or pulling prices.
 
-> Over short horizons, retail trades move stock prices in the direction of their trades.
+> Over short horizons, retail trades move stock prices.
 
-When we look at a longer time horizons (yearly), retail traders have an influence, however, particularly on [small cap](https://www.investopedia.com/terms/s/small-cap.asp#:~:text=A%20small%20cap%20is%20generally,institutional%20investors%20through%20growth%20opportunities.) stocks. Retail traders do move markets over any timeframe, however the smaller the timeframe and the smaller the cap of the stock, the more influentual they are.
+When we look at logner time horizons - yearly - retail traders do have an influence. However, particularly on small cap stocks. These are companies which have a value below $2 billion dollars. In essence, the smaller the company over longer horizons, the more influential retail trades are.
