@@ -28,5 +28,5 @@ version: 3.0.0
 nav:
   - title: Archive
     url: archive
-#  - title: Home
-#    url: https://laanaya.org/
+  - title: Home
+    url: https://laanaya.org/
