@@ -1,3 +1,6 @@
+layout: post
+title: Increased risk with more market volatility
+
 There have been numerous of times where I have used the argument to use the interest of [retail traders](https://www.investopedia.com/articles/active-trading/030515/what-difference-between-institutional-traders-and-retail-traders.asp) (your average joe) as an indicator to liquidate or not.
 
 If your grandparents or others in your vicinty talk about stocks (who normally don't) this could be a good *indication* to sell your stocks as a reversal may be likely.
