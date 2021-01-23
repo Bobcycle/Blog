@@ -14,4 +14,4 @@ In this case, their conclusion was that over short time horizons (days or weeks)
 
 > Over short horizons, retail trades move stock prices.
 
-When we look at logner time horizons - yearly - retail traders do have an influence. However, particularly on small cap stocks. These are companies which have a value below $2 billion dollars. In essence, the smaller the company over longer horizons, the more influential retail trades are.
+When we look at longer time horizons - yearly - retail traders do have an influence. However, particularly on small cap stocks. These are companies which have a value below $2 billion dollars. In essence, the smaller the company over longer horizons, the more influence.
