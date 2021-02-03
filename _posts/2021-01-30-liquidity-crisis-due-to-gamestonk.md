@@ -3,7 +3,7 @@ layout: post
 title: Liquidity crisis due to Gamestonk
 ---
 
-I wasn't quite sure what to think when the brokers stopped allowing buy orders and only sell orders on Thursday the 28th of January. Well... we could've had a very bad day.
+I wasn't quite sure what to think when the brokers stopped allowing buy orders and only sell orders on Thursday the 28th of January. Well... we could've had a bad day.
 
 The bottom line is, if the share price of Gamestop is sent to mars, it would cause a meltdown throughout the board where even the custodian may have to raise capital.
 
