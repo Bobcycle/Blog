@@ -15,6 +15,8 @@ It would set off a chain reaction of institutions being forced to sell off unrel
 
 Whenever you place a trade, it goes through your broker. Then your broker contacts another party, which contacts another (the DTCC) to issue you the share from a seller.
 
+** *This explanation has been greatly simplified in the interest of brevity.**
+
 It is important to know that for every share you buy there will be a seller. If those sellers go bankrupt they can not deliver your share which means that the clearing house has to deliver your share out of pocket. If the share price goes to $1000 the clearing house just wouldn’t have enough liquidity to cover that. Which means that we’re now talking about a liquidity crisis.
 
 When Gamestop became the most volatile asset in the world, it created a massive risk to the system. The DTCC views transactions from margin accounts, which are riskier than cash accounts. 
