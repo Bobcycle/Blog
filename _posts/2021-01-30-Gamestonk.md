@@ -18,7 +18,7 @@ This clearing process takes T+2 in this case. The settlement (moving the share f
 
 Whenever there is lending, there is risk from the other side to not pay up.
 
-In this case the DTCC provides their liquidity (their dough) to guarantee settlement, but their balance sheet isn't that big so there are rules in place. 
+In this case the DTCC provides their liquidity (their dough) to guarantee settlement, but their balance sheet isn't that big so there are rules in place. On the 28th of January brokers such as Robinhood were at risk of insolvency as many shares wer
 
 Under here a summary of what happens upon execution:
 
