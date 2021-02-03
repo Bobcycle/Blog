@@ -9,7 +9,7 @@ The bottom line is, if the share price of Gamestop is sent to mars, it would cau
 
 It would set off a chain reaction of institutions being forced to sell off unrelated positions to answer the [margin call](https://www.investopedia.com/terms/m/margincall.asp) of those who are short on Gamestop and it would cause the *entire* market to plummet like a house of cards like for a few days as hedge funds would go bankrupt.
 
-**Here is how it works**
+**Here is what happened**
 
 Whenever you place a trade, it goes through your broker. Then your broker contacts another party, which contacts the DTCC (clearing house) to issue you the share from a seller.
 
