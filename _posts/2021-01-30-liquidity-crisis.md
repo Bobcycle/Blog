@@ -30,4 +30,7 @@ Here is the key of this whole story. The brokers literally own the shares and no
 
 If the most volatile stock is now disproportionately part of the assets of your broker the risk of insolvency immediately increases. Brokers can get margin called too. Therefore the DTCC asks to send them more [collateral](https://www.investopedia.com/terms/c/collateral.asp) (money) in proportion to the risk that this broker poses.
 
+No moolay because your margin accounts pose a risk? Then no new shares for thee.
+
 This is why brokers such as Robinhood got a credit line of one billion dollars. Well, what's the solution then, Amin? It's simple, find a broker with a bigger balance sheet.
+
