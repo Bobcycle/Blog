@@ -11,11 +11,11 @@ It would set off a chain reaction of institutions being forced to sell off unrel
 
 **Here is what happened**
 
-Whenever you place a trade, it goes through your broker. Then your broker contacts another party, which contacts the DTCC (clearing house) to issue you the share from a seller.
+Whenever you place a trade, it goes through your broker. Then your broker contacts another party, which contacts [the DTCC](https://www.investopedia.com/terms/d/dtcc.asp) (clearing house) to issue you the share from a seller.
 
 *This explanation has been greatly simplified in the interest of brevity.*
 
-It is important to know that for every share you buy there will be a seller. If those sellers go bankrupt they can not deliver your share which means that the clearing house has to deliver your share out of pocket. If the share price goes to 1000 USD the clearing house just wouldn’t have enough liquidity to cover that. Which means that we’re now talking about a liquidity crisis.
+It is important to know that for every share you buy there will be a seller. If those sellers go bankrupt they can not deliver your share which means that the clearing house has to deliver your out of pocket. If the share price goes to 1000 USD the clearing house wouldn’t have enough [liquidity](https://www.investopedia.com/terms/l/liquidity.asp) to cover that. Which means that we’re now talking about a [liquidity crisis](https://www.investopedia.com/terms/l/liquidity-crisis.asp).
 
 ---
 
