@@ -7,7 +7,7 @@ I wasn't quite sure what to think when the brokers stopped allowing buy orders a
 
 The bottom line is, if the share price of Gamestop is sent to mars, it would cause a meltdown throughout the board where even the custodians may have to raise capital.
 
-It would set off a chain reaction of institutions being forced to sell off unrelated positions to answer the [margin call](https://www.investopedia.com/terms/m/margincall.asp) of those who are short on Gamestop and it would cause the *entire* market to plummet like a house of cards like for a few days as hedge funds would go bankrupt.
+It would set off a chain reaction of institutions being forced to sell off unrelated positions to answer the [margin call](https://www.investopedia.com/terms/m/margincall.asp) of those who are short on Gamestop and it would cause the *entire* market to plummet like a house of cards for a few days as hedge funds would go bankrupt.
 
 **Here is what happened**
 
@@ -15,7 +15,7 @@ Whenever you place a trade, it goes through your broker. Then your broker contac
 
 *This explanation has been greatly simplified in the interest of brevity.*
 
-It is important to know that for every share you buy there will be a seller. If those sellers go bankrupt they can not deliver your share which means that the clearing house has to deliver your out of pocket. If the share price goes to 1000 USD the clearing house wouldn’t have enough [liquidity](https://www.investopedia.com/terms/l/liquidity.asp) to cover that. Which means that we’re now talking about a [liquidity crisis](https://www.investopedia.com/terms/l/liquidity-crisis.asp).
+It is important to know that for every share you buy there will be a seller. If those sellers go bankrupt they can not deliver your share which means that the clearing house has to deliver yours out of pocket. If the share price goes to 1000 USD the clearing house wouldn’t have enough [liquidity](https://www.investopedia.com/terms/l/liquidity.asp) to cover that. Which means that we’re now talking about a [liquidity crisis](https://www.investopedia.com/terms/l/liquidity-crisis.asp).
 
 ---
 
