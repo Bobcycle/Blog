@@ -14,7 +14,7 @@ They say that every trader blows up their account before seeing actual success. 
 
 *Prevented by having a strategy, risk management and post analysis of trades taken.*
 
-I'm in was phase but, fortunately didn't blow up my account. I made some stupid trades as I thought I was a higher being. Note that I am the one who setup a full fledged strategy, made shirts saying "Trading without gambling is rules" and tells everyone what I said in the opening of this post. It means nothing if you don't stick to your trading plan.
+I'm was phase but, fortunately didn't blow up my account. I made some stupid trades as I thought I was a higher being. Note that I am the one who setup a full fledged strategy, made shirts saying "Trading without gambling is rules" and tells everyone what I said in the opening of this post. It means nothing if you don't stick to your trading plan.
 
 Am I disappointed in myself? Sure. However, it's the tipping moment of my trading career. I can say it all I want without actually experiencing substantial loss but it will never hit home if it doesn't happen to myself. This has saved me dough in the long run.
 
