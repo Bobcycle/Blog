@@ -1,6 +1,6 @@
 ---
 layout: post
-title: S&P 500 Distribution and odds calculation
+title: Odds calculation on the S&P 500
 ---
 
 It is important to be able to gather data yourself without relying on sources. My good friend going by the name "Turtle" once told me that I am basically a one trick pony as I thoroughly focus on technical analysis provided by third parties. What happens if I don't have access?
@@ -9,3 +9,6 @@ This made me think and ultimately made me enroll in a program with the Institute
 
 ---
 
+I have taken thirty years worth of data of the S&P 500. In this case I was most interested in the open and close price each day. Why did I want to do this? Well, I wanted to know if day trading the market (commonly referred to as the S&P 500) is statistically viable.
+
+Being a swing-trader myself, I make use of a longer timeframe to increase my odds of success and to be able to minimize the effect algorithms and quants have on my trades.
