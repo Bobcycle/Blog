@@ -19,10 +19,13 @@ Now I'm able to tell you that the S&P 500 has a 27.57% chance to have a 0.0% to 
 
 On the contrary, a down day of -0.5% to 0.0% has a 24.01% chance of occurring. This would make sense as the market has been on an uptrend for the past thirty years.
 
-Under here the complete breakdown of the distribution of the odds calculation.
-Furthermore, I have also added the probability and cumulative probabilities below.
+Under here the complete breakdown of the distribution of the odds calculation. On top of that, I have also added the probability and cumulative probabilities below.
 
-![image-20210428014913225](C:\Users\Amin\AppData\Roaming\Typora\typora-user-images\image-20210428014913225.png)
+**Conclusion**
+
+If you look at the hard numbers, the S&P 500 just isn't volatile enough to day trade it every day. In order to make substantial profit (and to even have a chance) there has to be more volatility.
+
+![](https://i.imgur.com/V9UNHZe.png)
 
 | **Range**      | Cumulative prob. | **Probabilities** |
 | -------------- | :--------------: | :---------------: |
