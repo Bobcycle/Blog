@@ -7,22 +7,21 @@ The CBOE Volatility Index (VIX) a.k.a. the fear indicator is a real-time market 
 
 Institutions use the VIX to measure the stress and risk in the market. It indicates market volatility over the coming 30 days by averaging call and put option prices. If the VIX is up substantially it would mean more volatility, meaning that investors have to cut their exposure to manage risk.
 
-
-
----
-
 If the average market volatility is 0.50% on an asset with a $1.000.000 portfolio you will either win or lose $5.000 a day during normal market volatility.
 
 (1.000.000 x 0,005 = 5.000)⠀
 
 However, if for some reason the market volatility doubles (1.0%) you are automatically prone to lose double the amount. You have now increased your risk by 100% by doing nothing.
 
+
+
 ---
 
-The average level of the VIX is around 15-16. In 2020, the average was 29.25 which marks the start of the COVID pandemic. In almost all cases, a high VIX is correlated to a price decrease. I've been able to open some charts and provide a real-world example.
 
-![https://i.imgur.com/d02HcAk.png](https://i.imgur.com/d02HcAk.png)
 
+The average level of the VIX is around 15-16. In 2020, the average was 29.25 which marks the start of the COVID pandemic. In almost all cases, a high VIX is correlated to a price decrease. I have been able to provide a real world example, correlating the VIX (bottom) and the S&P 500.
+
+![https://i.imgur.com/6aadSEK.png](https://i.imgur.com/6aadSEK.png)
 
 
 **Calculation**
