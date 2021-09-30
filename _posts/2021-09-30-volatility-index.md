@@ -5,15 +5,11 @@ title: Volatility index (fear indicator)
 
 The CBOE Volatility Index (VIX) a.k.a. the fear indicator is a real-time market index which represents the expected market volatility (price movement) over the coming 30 days.
 
-Institutions use the VIX to measure stress and risk in the market. The VIX is calculated using a formula to gather implied volatility by averaging prices of OTM (out of the money) puts and calls. I will spare you the actual calculation, but for Fantine... [here](https://cdn.cboe.com/resources/futures/vixwhite.pdf) you can find the actual whitepaper which goes in-depth in regards to how it's calculated. 
-
-
+Institutions use the VIX to measure stress and risk in the market. The VIX is calculated using a formula to gather [implied volatility](https://www.investopedia.com/articles/optioninvestor/08/implied-volatility.asp) by averaging prices of [OTM](https://www.investopedia.com/terms/o/outofthemoney.asp#:~:text=Out%20of%20the%20money%20is,above%20the%20put's%20strike%20price.) (out of the money) puts and calls. I will spare you the actual calculation, but for Fantine... [here](https://cdn.cboe.com/resources/futures/vixwhite.pdf) you can find the actual whitepaper which goes in-depth in regards to how it's calculated. 
 
 In any case, if the VIX is up substantially it would mean more price movement, meaning that investors have to cut their exposure to manage risk. Let's do some simple math together.
 
-If the average market volatility is 0.50% on an asset with a $1.000.000 portfolio you will either win or lose $5.000 a day during normal market volatility.
-
-(1.000.000 x 0,005 = 5.000)⠀
+If the average market volatility is 0.50% on an asset with a $1.000.000 portfolio you will either win or lose $5.000 a day during normal market volatility. (1.000.000 x 0,005 = 5.000)
 
 However, if for some reason the market volatility doubles to 1.0%, you are automatically prone to lose double the amount. You have now increased your risk by 100% by doing nothing. Risk management for any trader is the number one priority to ensure longevity. The only thing a trader at an institution can do is to half (by selling) their position to $500.000 in order to come back to their original risk ratio of losing only $50.00 a day at double the market volatility of 1%.
 
