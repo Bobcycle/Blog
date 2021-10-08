@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Building permits acting as economic health
+title: Building permits as leading indicator
 ---
 
 We're entering a new chapter of my passion in the market as I have recently been very interested (as part of my studies) into everything macro-economic. Trading the real way.
@@ -21,5 +21,5 @@ On top of that, it will also provide employment to both parties. The chart below
 
 ![https://i.imgur.com/caMLF1J.png](https://i.imgur.com/caMLF1J.png)
 
-There is always more to this data. If you look good enough on-line, through the website of the Federal Reserve, you're also able to drill down in certain sectors. If there is an upsurge of commercial building permits, it would indicate that business are expanding or that new business are being established. If there is a rise in building permit for more warehouses it could mean that commerce will increase in the coming years. It is still a **leading** indicator.
+There is always more to this data. If you look good enough on-line, through the website of the Federal Reserve, you're also able to drill down in certain sectors. If there is a bigger upsurge of commercial building permits, it would indicate that business are expanding or that new business are being established. If there is a rise in building permit for more warehouses it could mean that commerce will increase in the coming years. It is still a **leading** indicator.
 
