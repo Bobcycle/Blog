@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Leading indicator: Building permits
+title: "Leading indicator: Building permits"
 ---
 
-We're entering a new chapter of my passion in the market as I have recently been very interested (as part of my studies) into everything macro-economic. Trading the real way.
+We're entering a new chapter of my passion in the market as I have recently been very interested (as part of my studies) into everything macro-economic. Trading the real way.m
 
 I've recently been exposed to multiple leading indicator such as the ISM (PMI) and many other confirming indicators. Today we're going to look at the most interesting one of the bunch.
 
