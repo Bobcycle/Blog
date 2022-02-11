@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PMI as leading indicator
+title: Leading indicator: Manufacturing index
 ---
 
 The ISM (Institute of Supply Management) releases a monthly report which surveys a total of 300 companies from the United States on the events which have passed the previous month.
