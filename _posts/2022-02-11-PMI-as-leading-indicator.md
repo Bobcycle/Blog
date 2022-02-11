@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Increased risk with more market volatility
+title: PMI as leading indicator
 ---
 
 The ISM (Institute of Supply Management) releases a monthly report which surveys a total of 300 companies from the United States on the events which have passed the previous month.
@@ -12,6 +12,7 @@ Manufacturing consists of 20% of the economy whilst services consist of 80%. Tha
 ---
 
 **How to view and understand the report**
+
 I've manipulated the reports (since 1948) and put it within a [simple spreadsheet](https://docs.google.com/spreadsheets/d/1cuFB09d6S87P-UnRdO405_dQ-yTlAetvZx32BF-JmBA/edit?usp=sharing) with the manufacturing industry as an example. Within the sheet, there are five different categories (equally weighted) which makes up the whole report.
 
 It consists as follows:
@@ -22,6 +23,8 @@ It consists as follows:
 5. Inventories (20%)
 
 With all the results of the above data points, an average will be made which is the index number (PMI). It historically ranges from 30 to 80. There is a thumb of rule however. If it is above 50, the economy is growing. If it is under 50 then it is contracting.
+
+---
 
 **Real-life example**
 
@@ -37,9 +40,7 @@ Notice that the PMI has been sitting under 50 for a few months until July (7th m
 | 2009-06-01 | 45.8 |
 | 2009-05-01 | 41.7 |
 
-If you look at the chart below, the S&P 500 (the market) skyrocketed the moment the report got released stating that the 50 PMI was being touched. Months after that it has only been climbing.
-
-However, that's not all. The United States was still in a down market until December 2010.
+If you look at the chart below, the S&P 500 (the market) skyrocketed the moment the report got released stating that the 50 PMI was being touched. Months after that it has only been climbing. However, the United States was still in a down market until December 2010.
 
 Lagging indicators such as the Manufacturing and services index will lag 12 to 18 months. In this case, the PMI was telling you 18 months before that it was heading into a bull market.
 
