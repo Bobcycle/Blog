@@ -5,21 +5,23 @@ title: Increased risk with more market volatility
 
 The ISM (Institute of Supply Management) releases a monthly report which surveys a total of 300 companies from the United States on the events which have passed the previous month.
 
-It is contains business resuls of the manufacturing and services industry.
+> It contains business results of the manufacturing and services industry.
 
-Manufacturing consists of 20% of the economy whilst services conssist of 80%. That being said, reporting on the services industry has only been there since the 21st century. Therfore more importance is placed on the manufacturing reports as more [business cycles](https://www.investopedia.com/terms/b/businesscycle.asp) have occured.
+Manufacturing consists of 20% of the economy whilst services consist of 80%. That being said, reporting on the services industry has only been there since the 21st century. Therefore more importance is placed on the manufacturing reports as more [business cycles](https://www.investopedia.com/terms/b/businesscycle.asp) have occurred.
 
-**How to view the report**
+---
 
-I've manipulated the reports and put it on a [simple spreadsheet](https://docs.google.com/spreadsheets/d/1cuFB09d6S87P-UnRdO405_dQ-yTlAetvZx32BF-JmBA/edit?usp=sharing) with the manufacturing industry as an example. Note that there are a few different sheets as the survey will categorise the results of the survey in five equal weighted parts. It consists as follows:
+**How to view and understand the report**
+I've manipulated the reports (since 1948) and put it within a [simple spreadsheet](https://docs.google.com/spreadsheets/d/1cuFB09d6S87P-UnRdO405_dQ-yTlAetvZx32BF-JmBA/edit?usp=sharing) with the manufacturing industry as an example. Within the sheet, there are five different categories (equally weighted) which makes up the whole report.
 
+It consists as follows:
 1. New orders (20%)
 2. Production (20%)
 3. Employment (20%)
 4. Deliveries (20%)
 5. Inventories (20%)
 
-With all the results of the above gathered, an average will be made and an index number (PMI) will be the result. It can range (historically) from 30 to 80. There is a thumb of rule. If it is above 50 it means that it's growing. If it is under 50 then it is... well, you can fill it in.
+With all the results of the above data points, an average will be made which is the index number (PMI). It historically ranges from 30 to 80. There is a thumb of rule however. If it is above 50, the economy is growing. If it is under 50 then it is contracting.
 
 **Real-life example**
 
